@@ -16,6 +16,6 @@ Feel free to explore the lesson directories to access code and resources for eac
 
 ## Contact
 
-For any questions or feedback, please reach out via [email@surpable.com](mailto:surpableindia@gmail.com).
+For any questions or feedback, please reach out via surpableindia@gmail.com.
 
 Happy coding!😊😊
