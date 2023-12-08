@@ -8,14 +8,10 @@ This series is designed for beginners who want to learn HTML from scratch. Each 
 
 ## Playlist Link
 
-[HTML Tutorial for Beginners Playlist](https://www.youtube.com/playlist?list=PLWD-p_kHs4zG--zXXC69NdYDpZpb9EvtC)
+[HTML Tutorial for Beginners Playlist](https://www.youtube.com/playlist?list=PLWD-p_kHs4zG--zXXC69NdYDpZpb9EvtC) 
 
 ## Usage
 
 Feel free to explore the lesson directories to access code and resources for each video. Use the playlist link to follow the entire series.
-
-## Contact
-
-For any questions or feedback, please reach out via surpableindia@gmail.com.
 
 Happy coding!😊😊
